@@ -1,8 +1,8 @@
 {
+  "notes": "Release v1.0.4",
   "windows": {
-    "installer_url": "https://raw.githubusercontent.com/AgroHelp-Consulting-dev/AgroHelpComptable-Releases/main/v1.0.3/Setup_AgroHelpComptable.exe",
-    "sha256": "6d77180c70ea7f4a08fefdeb6f5e412f4209c8f245b10f3d20b0baed08cd30d8"
+    "sha256": "9137f0a1e6b3cb025fe2df4ce598703c0ebced8e99083251eb7729a044caa44f",
+    "installer_url": "https://raw.githubusercontent.com/AgroHelp-Consulting-dev/AgroHelpComptable-Releases/main/v1.0.4/Setup_AgroHelpComptable.exe"
   },
-  "version": "1.0.3",
-  "notes": "Release v1.0.3"
+  "version": "1.0.4"
 }
